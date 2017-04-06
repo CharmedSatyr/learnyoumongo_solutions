@@ -1,0 +1,28 @@
+{
+  "name": "learnyoumongo_solutions",
+  "version": "1.0.0",
+  "description": "My solutions to nodeschool.io's learnyoumongo module, saved here for reference.",
+  "main": "3-find.js",
+  "dependencies": {
+    "mongodb": "^2.2.25"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "learnyoumongo verify 3-find.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharmedSatyr/learnyoumongo_solutions.git"
+  },
+  "keywords": [
+    "nodeschool",
+    "node.js",
+    "MongoDB"
+  ],
+  "author": "CharmedSatyr",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/CharmedSatyr/learnyoumongo_solutions/issues"
+  },
+  "homepage": "https://github.com/CharmedSatyr/learnyoumongo_solutions#readme"
+}
